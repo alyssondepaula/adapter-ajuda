@@ -25,7 +25,7 @@ export const Container = styled.div`
 
   }
 
-  > button{
+  > button {
 
     width: 6%;
     height: 6vh;
