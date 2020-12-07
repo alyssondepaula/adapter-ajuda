@@ -8,11 +8,11 @@ export const Container = styled.div`
   flex-direction: row;
   padding: 16px 48px;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
 
   >input {
 
-    width: 50%;
+    width: 70%;
     height: 6vh;
     border-radius: 24px;
     border: 0;
@@ -21,7 +21,7 @@ export const Container = styled.div`
     align-items: center;
     justify-content: center;
     text-align: center;
-    border: 1px solid rgba(0,0,0,0.33);
+    border: 1px solid rgba(0,0,0,0.45);
 
   }
 
